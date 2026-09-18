@@ -13,6 +13,6 @@ perfil_alarme.cfg deve ter SEMPRE estes valores.
 | perfil | ADULTO |
 | vazao_maxima_ml_h | 500 |
 | vazao_minima_ml_h | 0.1 |
-| alarme_oclusao_mmHg | 300 |
+| alarme_oclusao_mmHg | 350 |
 | alarme_ar_na_linha | ligado |
 | volume_bolus_maximo_ml | 20 |
