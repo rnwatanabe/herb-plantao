@@ -14,4 +14,4 @@ perfil_alarme.cfg deve ter SEMPRE estes valores.
 | limite_SpO2_min | 90 |
 | limite_FC_min | 50 |
 | limite_FC_max | 130 |
-| volume_alarme | 5 |
+| volume_alarme | 6 |
