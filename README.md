@@ -20,3 +20,12 @@ Regras:
 1. Dados de pacientes (sinais vitais, prontuários) NUNCA entram neste repositório (LGPD).
 2. Nenhuma mudança de perfil de alarme entra na main sem a revisão de outra pessoa.
 3. O histórico não pode ser reescrito: erros são corrigidos com novos commits.
+
+## Plantão de auditoria (uma semana)
+
+Em 19/10, uma bomba de infusão da UTI-06 aceitou uma programação de 1200 mL/h (o
+limite aprovado é 500 mL/h). A enfermeira percebeu antes de iniciar a infusão.
+Suspeita: outras atualizações de firmware também trouxeram de volta valores de fábrica.
+
+Durante uma semana, cada plantonista audita um setor, no seu ritmo. Setores e reservas:
+ver `setores/` e `inventario/reservas/`.
