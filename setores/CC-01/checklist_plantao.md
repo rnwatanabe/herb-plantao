@@ -1,7 +1,7 @@
 # Ficha do plantão de auditoria — setor CC-01
 
-Responsável:
-Data da auditoria:
+Responsável: Plantonista 12
+Data da auditoria: 22/11/2026
 
 Itens a auditar neste plantão:
 - perfil de alarmes do OXI-5112 (comparar perfil_alarme.cfg com o README do setor)
