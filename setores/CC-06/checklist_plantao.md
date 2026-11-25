@@ -1,7 +1,7 @@
 # Ficha do plantão de auditoria — setor CC-06
 
-Responsável:
-Data da auditoria:
+Responsável: Plantonista 31
+Data da auditoria: 25/11/2026
 
 Itens a auditar neste plantão:
 - perfil de alarmes do VNT-5131 (comparar perfil_alarme.cfg com o README do setor)
